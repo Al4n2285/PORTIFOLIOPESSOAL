@@ -7,7 +7,6 @@
     <link rel="stylesheet"href="pessoalportifolio.css">
 </head>
 <body>
-    <!-- Menu  -->
     <nav>
         <ul>
             <li><a href="#sobre">Sobre Mim</a></li>
@@ -16,7 +15,6 @@
             <li><a href="#contato">Contato</a></li>
         </ul>
     </nav>
-        <!-- Sobre Mim -->
     <section id="sobre">
         <h1>Sobre Mim</h1>
         <p>Me chamo Alan, 8 anos trabalhando na área de logística em uma empresa do setor de defensivo agricola. no momento estou procurando conhecimento na área de desenvolvimento e análise de sistemas na Instituição Uninter.
@@ -43,7 +41,6 @@
                 <img src="site/img/twich.png"></a>
         </div>
     </section>
-    <!-- Contato -->
     <section id="contato">
         <h1>Entre em Contato</h1>
         <form>
